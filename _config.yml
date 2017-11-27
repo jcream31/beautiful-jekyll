@@ -29,7 +29,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/tarpon.png"
+#avatar: "/img/none.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -40,11 +40,11 @@ avatar: "/img/tarpon.png"
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-navbar-col: "#85DCB"
+#navbar-col: "#85DCB"
 # navbar-img: "/img/bgimage.png"
-footer-col: "#85DCB"
+#footer-col: "#85DCB"
 # footer-img: "/img/bgimage.png"
-page-col: "#41B3A3"
+page-col: "#85DCB"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #

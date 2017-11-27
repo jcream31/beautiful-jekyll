@@ -1,8 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
+title: Workout Music Recommender
+tags: [galvanize]
 ---
 
-This is my first post, how exciting!
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~jcream31/120.embed"></iframe>

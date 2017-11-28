@@ -4,7 +4,7 @@ title: Workout Music Recommender
 tags: [galvanize]
 ---
 
-<iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~jcream31/120.embed?width=1000&height=800"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" src="//plot.ly/~jcream31/120.embed?width=500&height=400"></iframe>
 
 After constantly battling to find new workout music to push me through at the gym, I wanted to design a tool to take the features of my current playlist and recommend similar songs while I'm working out. I used the Spotify API, in conjuction with Python and Flask to design an app that does just that. The biggest (unexpected) challenges of this project for me was (1.) building a dataset of newish workout songs and (2.) working with an API that requires user authentication to access private data.   
 
